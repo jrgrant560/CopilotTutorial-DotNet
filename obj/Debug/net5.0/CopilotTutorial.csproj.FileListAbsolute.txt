@@ -3,7 +3,6 @@ C:\Users\Deep Work\Desktop\_myDev\_Personal\DOTNET\CopilotTutorial\bin\Debug\net
 C:\Users\Deep Work\Desktop\_myDev\_Personal\DOTNET\CopilotTutorial\bin\Debug\net5.0\CopilotTutorial.runtimeconfig.json
 C:\Users\Deep Work\Desktop\_myDev\_Personal\DOTNET\CopilotTutorial\bin\Debug\net5.0\CopilotTutorial.runtimeconfig.dev.json
 C:\Users\Deep Work\Desktop\_myDev\_Personal\DOTNET\CopilotTutorial\bin\Debug\net5.0\CopilotTutorial.dll
-C:\Users\Deep Work\Desktop\_myDev\_Personal\DOTNET\CopilotTutorial\bin\Debug\net5.0\ref\CopilotTutorial.dll
 C:\Users\Deep Work\Desktop\_myDev\_Personal\DOTNET\CopilotTutorial\bin\Debug\net5.0\CopilotTutorial.pdb
 C:\Users\Deep Work\Desktop\_myDev\_Personal\DOTNET\CopilotTutorial\obj\Debug\net5.0\CopilotTutorial.csproj.AssemblyReference.cache
 C:\Users\Deep Work\Desktop\_myDev\_Personal\DOTNET\CopilotTutorial\obj\Debug\net5.0\CopilotTutorial.GeneratedMSBuildEditorConfig.editorconfig
@@ -16,3 +15,5 @@ C:\Users\Deep Work\Desktop\_myDev\_Personal\DOTNET\CopilotTutorial\obj\Debug\net
 C:\Users\Deep Work\Desktop\_myDev\_Personal\DOTNET\CopilotTutorial\obj\Debug\net5.0\CopilotTutorial.genruntimeconfig.cache
 C:\Users\Deep Work\Desktop\_myDev\_Personal\DOTNET\CopilotTutorial\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\Users\Deep Work\Desktop\_myDev\_Personal\DOTNET\CopilotTutorial\obj\Debug\net5.0\CopilotTutorial.csproj.CopyComplete
+C:\Users\Deep Work\Desktop\_myDev\_Personal\DOTNET\CopilotTutorial\obj\Debug\net5.0\CopilotTutorial.sourcelink.json
+C:\Users\Deep Work\Desktop\_myDev\_Personal\DOTNET\CopilotTutorial\obj\Debug\net5.0\refint\CopilotTutorial.dll
