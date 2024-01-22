@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "FDxRg9F/WtYDB0e+8RHxNjEpVx89uYq+8YTMdZesKAZjMRNPJdO2i/JjiD9XBCxAtV14psa8B2+ANxotwN/gNg==",
+  "dgSpecHash": "WOZ5SnyQhDDJm6XpQvidIv3tLeWoDVBnFaJdBWEBAruF67pNuVyrDhGfgDebpn97CnPpd9rmSLK2aVs+PI/pyw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Deep Work\\Desktop\\_myDev\\_Personal\\DOTNET\\CopilotTutorial\\CopilotTutorial.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Deep Work\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

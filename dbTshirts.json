@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 0,
+    "TshirtName": "T-shirt 0",
+    "Logo": "🏕️",
+    "Size": "M"
+  },
+  {
+    "Id": 1,
+    "TshirtName": "T-shirt 1",
+    "Logo": "🔥",
+    "Size": "XL"
+  },
+  {
+    "Id": 2,
+    "TshirtName": "T-shirt 2",
+    "Logo": "🌦️",
+    "Size": "XS"
+  },
+  {
+    "Id": 3,
+    "TshirtName": "T-shirt 3",
+    "Logo": "🌻",
+    "Size": "XS"
+  },
+  {
+    "Id": 4,
+    "TshirtName": "T-shirt 4",
+    "Logo": "😎",
+    "Size": "L"
+  },
+  {
+    "Id": 5,
+    "TshirtName": "T-shirt 5",
+    "Logo": "☕",
+    "Size": "XL"
+  }
+]
