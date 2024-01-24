@@ -30,15 +30,9 @@
         "Size": "L"
     },
     {
-        "Id": 5,
-        "TshirtName": "t-shirt 5",
-        "Logo": "5-logo",
-        "Size": "S"
-    },
-    {
-        "Id": 6,
-        "TshirtName": "t-shirt new",
+        "Id": 7,
+        "TshirtName": "another t-shirt",
         "Logo": "fuzzball",
-        "Size": "XL"
+        "Size": "XXL"
     }
 ]
